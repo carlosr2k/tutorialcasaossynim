@@ -6,7 +6,7 @@
 
 ## Requisitos 
 
-[x] CasaOS funcional
+- [x] CasaOS funcional
 
 ### Passo a passo
 
